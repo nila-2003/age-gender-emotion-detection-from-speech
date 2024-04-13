@@ -17,3 +17,6 @@ pip install -r requirements.txt
 python inference_script.py --audio_path sample_audio/file.wav --model_path model_name.h5/model_name.sav
 ``` 
 <br>
+
+# Dataset link: 
+[!https://www.kaggle.com/datasets/mozillaorg/common-voice]
