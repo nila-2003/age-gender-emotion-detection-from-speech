@@ -19,4 +19,4 @@ python inference_script.py --audio_path sample_audio/file.wav --model_path model
 <br>
 
 # Dataset link: 
-[!https://www.kaggle.com/datasets/mozillaorg/common-voice]
+[https://www.kaggle.com/datasets/mozillaorg/common-voice]
